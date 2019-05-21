@@ -8,8 +8,9 @@
 	text-align: center;
 }
 
-.image {
+img {
 	display: inline-block;
+	width: 30%;
 }
 
 .column {

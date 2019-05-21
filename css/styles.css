@@ -35,3 +35,18 @@ p, li {
     color: #FFF;
     padding: 10px 0 10px 0;
 }
+
+/*Contact*/
+.contactInfo {
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 8em;
+	font-size: 1.7em;
+	background-image: url(css/sneakers.jpg);
+}
+
+.contactInfo > p {
+	width: 55%;
+	margin: 0 auto;
+	padding: 20px;
+} 
